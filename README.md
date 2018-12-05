@@ -20,8 +20,6 @@ Detect input type (file) and download it
 
 Add keyboard to response message 
 
-
 If you helo me,we can complete it.
 
-[https://www.iranapp.org]
 Thanks
